@@ -1,0 +1,11 @@
+.profilecss
+{
+    background-color: cadetblue;
+    width: 50vw;
+    height: 100%;
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
+    border: double white 50px;
+}
